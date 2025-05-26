@@ -39,6 +39,8 @@ src/
     │       │   ├── Category.java
     │       │   └── Product.java
     │       ├── repository/
+    |       |   |__ CategoryRepository.java
+    |       |   |__ ProductRepository.java
     │       ├── service/
     │       │   ├── CategoryService.java
     │       │   └── ProductService.java
