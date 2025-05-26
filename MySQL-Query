@@ -1,0 +1,10 @@
+create database testdb;
+use testdb;
+show tables;
+
+select * from category;
+desc category;
+
+select * from product;
+
+desc product;
